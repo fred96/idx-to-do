@@ -1,5 +1,6 @@
-name: myapp
-description: "A new Flutter project."
+name: todo
+description: "A simple to do app for trying out the Google Project IDX, development entirely on the cloud IDX platform.
+Flutter as the framework tool with cross platform on windows and android"
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
